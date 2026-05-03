@@ -1,0 +1,9 @@
+git remote add origin https://github.com/yupeppe/vinted360.git
+git add .
+git commit -m "Primo upload del progetto"
+git push -u origin main
+
+
+
+git config --global user.name "yupeppe"
+git config --global user.email "yupeppe@libero.it"
